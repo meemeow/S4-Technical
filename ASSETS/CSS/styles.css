@@ -1,0 +1,79 @@
+body {
+    overflow-x: hidden;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.center-text {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.no-card-padding {
+    padding: 0;
+}
+
+.large-header {
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+.card-text {
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.large-cost {
+    padding-top: 80px;
+    font-size: 3.7em;
+    font-weight: normal;
+}
+
+.low-desc {
+    font-size: 1.5em;
+    font-weight: normal;
+    padding-bottom: 20px;
+}
+
+.row {
+    padding-bottom: 100px;
+}
+
+.top-shadow {
+    padding-top: 80px;
+    box-shadow: 0 -4px 2px -2px rgba(0, 0, 0, 0.1);
+    width: 60%;  
+}
+
+.center-div {
+    display: flex;
+    justify-content: center;
+}
+
+.color {
+    color: #aab2b3;
+    font-weight: normal;
+}
+
+.card-title {
+    display: inline;
+    margin-right: 10px;
+}
+
+.text-muted{
+    padding-top: 5px;
+}
+
+ul a {
+    color: #AAB2B3;
+    text-decoration: none;
+}
+
+ul a:hover {
+    text-decoration: underline;
+    color: #09272b;
+}
